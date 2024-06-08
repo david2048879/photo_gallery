@@ -2,6 +2,7 @@
 
 This project is an interactive photo gallery designed to be responsive and work seamlessly on both desktop and mobile devices. 
 It includes features such as image thumbnail navigation, full-size image viewing, and other interactions specified in the designs.
+![Screenshot 2024-06-09 014739](https://github.com/david2048879/photo_gallery/assets/91059058/ce20f152-edff-4d0f-aea7-fb6c71162a07)
 
 **Features**
 •  Responsive design for desktop and mobile devices.
@@ -23,11 +24,12 @@ Make sure you have the following installed:
 
 ****Project Structure****
 The project consists of the following files:
+
 •	index.html: The main HTML file.
 
 •	styles.css: The CSS file for styling the HTML content.
 
-•	script.js: The JavaScript file for interactivity.
+•	app.js: The JavaScript file for interactivity.
 
 **Approach**
 
